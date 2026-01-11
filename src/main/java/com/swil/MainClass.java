@@ -3,7 +3,7 @@ package com.swil;
 public class MainClass {
 
 	public static void main(String[] args) {
-		System.out.println("b6");
+		System.out.println("b6_1");
 
 	}
 
